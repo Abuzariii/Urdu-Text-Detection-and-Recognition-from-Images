@@ -21,6 +21,12 @@ Main task is to generate around half a million synthetic images usig this format
 
 [Object Localization](https://github.com/lars76/object-localization)
 
+[Urdu Text Recognition](https://github.com/abdur75648/UTRNet-High-Resolution-Urdu-Text-Recognition)
+
+[CNN Based multi-lingual signboard text detector and recognizer](https://github.com/dll-ncai/TraffSign-Multilingual-Traffic-Signboard-Text-Detection-and-Recognition-for-Urdu-and-English
+
+[Urdu OCR](https://github.com/yusraamoin/Transformer-Based-Urdu-OCR)
+
 ## Project Sequence
 
 1. Generate a few hundred synthetic images by hand
