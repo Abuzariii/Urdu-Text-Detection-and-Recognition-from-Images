@@ -18,6 +18,7 @@ Main task is to generate around half a million synthetic images usig this format
 
 ## Helping Repos
 [Text Detection Recognition](https://github.com/misbah4064/textDetection-Recognition)
+[Object Localization](https://github.com/lars76/object-localization)
 
 ## Project Sequence
 
